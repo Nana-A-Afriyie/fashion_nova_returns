@@ -9,7 +9,11 @@
 [Fashion nova orders.csv](https://github.com/user-attachments/files/32171644/Fashion.nova.orders.csv)
 [fashion nova returns.csv](https://github.com/user-attachments/files/32171643/fashion.nova.returns.csv)
 
+
+
 ***👗 Fashion Nova Sales & Returns Analytics Pipeline ***
+
+
 ***📌 Project Overview***
 This end-to-end data analytics project evaluates e-commerce sales performance, financial profitability, and customer return patterns for a Fashion Nova dataset (~500 orders). The primary objective is to clean ambiguous raw transactional data, isolate the root causes of revenue leakage (e.g., sizing discrepancies), and deliver interactive visual insights to optimize inventory and product sizing strategies.
 
