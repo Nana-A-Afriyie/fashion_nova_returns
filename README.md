@@ -1,3 +1,6 @@
+[fashion nova products.csv](https://github.com/user-attachments/files/32171654/fashion.nova.products.csv)
+[Fashion nova orders.csv](https://github.com/user-attachments/files/32171644/Fashion.nova.orders.csv)
+[fashion nova returns.csv](https://github.com/user-attachments/files/32171643/fashion.nova.returns.csv)
 # fashion_nova_returns
 👗 Fashion Nova Sales & Returns Analytics Pipeline
 📌 Project Overview
