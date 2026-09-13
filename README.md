@@ -8,12 +8,12 @@
 [fashion nova products.csv](https://github.com/user-attachments/files/32171654/fashion.nova.products.csv)
 [Fashion nova orders.csv](https://github.com/user-attachments/files/32171644/Fashion.nova.orders.csv)
 [fashion nova returns.csv](https://github.com/user-attachments/files/32171643/fashion.nova.returns.csv)
-# fashion_nova_returns
-👗 Fashion Nova Sales & Returns Analytics Pipeline
-📌 Project Overview
+
+***👗 Fashion Nova Sales & Returns Analytics Pipeline ***
+***📌 Project Overview***
 This end-to-end data analytics project evaluates e-commerce sales performance, financial profitability, and customer return patterns for a Fashion Nova dataset (~500 orders). The primary objective is to clean ambiguous raw transactional data, isolate the root causes of revenue leakage (e.g., sizing discrepancies), and deliver interactive visual insights to optimize inventory and product sizing strategies.
 
-🛠️ Data Pipeline & Architecture
+***🛠️ Data Pipeline & Architecture ***
 [Raw Excel Dataset] 
        │
        ▼
@@ -36,7 +36,7 @@ Currency Sanitization & Casting: Stripped string artifacts (e.g., $, whitespace)
 
 Relational Joins: Executed LEFT JOIN operations across products, orders, and returns on key identifiers (product_id and order_id).
 
-📊 Key Business & Financial Insights
+***📊 Key Business & Financial Insights***
 Overall Revenue Performance:
 
 Gross Sales: $26,809.65 (500 orders)
@@ -61,14 +61,20 @@ Highest Refund Risk: Denim ($945.52 refunded) and Dresses ($870.32 refunded) exp
 
 High Ticket Return Item: Shoes logged the highest average price point per returned unit ($79.46).
 
-📈 Power BI Visualization Features
+***📈 Power BI Visualization Features**
 Return Reason Breakdown: Visualized the volume and financial weight of returns grouped by underlying customer feedback.
 
-Category Profitability Matrix: Comparative bar and matrix views tracking Gross Sales, Net Sales, Refunds, and Net Profit across apparel categories.
+Category Profitability Matrix: Comparative bar and matrix views tracking Gross Sales, Net Sales, Refunds, and Net Profit across apparel categories.This chart compares sales generation against refund impact across our key product categories:
 
-DAX Metrics: Custom DAX measures developed for Net Revenue, Refund Percentages, and Average Unit Value.
+Primary Revenue Driver: Swimwear leads overall category performance with $6.95k in Gross Sales and over $6.16k in Net Sales.
 
-📂 Repository Structure
+Highest Financial Leakage: Denim ($945.52) and Dresses ($870.32) represent our largest dollar losses due to returns.
+
+High-Ticket Return Risk: Shoes carries our highest average return item price ($79.46), making sizing accuracy in footwear critical to protecting margins.
+
+Recommendation: Focus sizing guidance and fit optimizations primarily on Denim and Dresses to protect high-margin net sales."
+
+***📂 Repository Structure**
 Plaintext
 Data/
  Fashion_Nova_Returns_500_Rows_With_Duplicates
