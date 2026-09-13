@@ -1,3 +1,4 @@
+<img width="1210" height="473" alt="Screenshot 2026-09-13 190908" src="https://github.com/user-attachments/assets/cbe4c448-f40f-4d5c-a52b-e91684a8c64b" />
 [GROUPBY_JOINED.csv](https://github.com/user-attachments/files/32173718/GROUPBY_JOINED.csv)
 [JOINED_FN_ORDER_FN_FN_RETURNS.csv](https://github.com/user-attachments/files/32173710/JOINED_FN_ORDER_FN_FN_RETURNS.csv)
 [Fashion_nova_sales.csv](https://github.com/user-attachments/files/32173702/Fashion_nova_sales.csv)
