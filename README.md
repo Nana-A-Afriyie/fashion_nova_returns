@@ -11,7 +11,7 @@
 
 
 
-***👗 Fashion Nova Sales & Returns Analytics Pipeline ***
+***👗 Fashion Nova Sales & Returns Analytics Pipeline***
 
 
 ***📌 Project Overview***
