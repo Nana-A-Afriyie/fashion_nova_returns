@@ -6,9 +6,6 @@
 [Fashion_nova_products_cleaned.csv](https://github.com/user-attachments/files/32173693/Fashion_nova_products_cleaned.csv)
 [fashion_nova_returns_cleaned.csv](https://github.com/user-attachments/files/32173690/fashion_nova_returns_cleaned.csv)
 [Fashion_nova_orders_cleaned.csv](https://github.com/user-attachments/files/32173658/Fashion_nova_orders_cleaned.csv)
-[fashion nova products.csv](https://github.com/user-attachments/files/32171654/fashion.nova.products.csv)
-[Fashion nova orders.csv](https://github.com/user-attachments/files/32171644/Fashion.nova.orders.csv)
-[fashion nova returns.csv](https://github.com/user-attachments/files/32171643/fashion.nova.returns.csv)
 
 
 
@@ -44,23 +41,23 @@ Relational Joins: Executed LEFT JOIN operations across products, orders, and ret
 ***📊 Key Business & Financial Insights***
 Overall Revenue Performance:
 
-Gross Sales: $26,809.65 (500 orders)
+Gross Sales: $34,481.83 (500 orders)
 
-Total Refunded Amount: $4,434.07 (88 refunded items)
+Total Refunded 5,288.14 (88 refunded items)
 
-Net Sales: $22,375.58
+Net Sales: $29,193.69
 
-Net Profit: $11,651.72 (estimating COGS at ~40%)
+Top category swimwear $6950.28
 
 Primary Drivers of Returns:
 
-Sizing Issues: Fit discrepancies ("Too Small" and "Too Big") serve as the single largest contributor to customer returns, accounting for over $4,500+ in lost revenue.
+Sizing Issues: Fit discrepancies ("Too Small" and "Too Big") serve as the single largest contributor to customer returns, accounting for over $5288+ in lost revenue.
 
-Product Expectations: "Item Not As Pictured" ($1,645.56) and "Changed Mind" ($1,624.13) form the second largest tier of return causes.
+Product Expectations: "too small" ($2936.23) and "not as pictured" ($1,645.56) form the second largest tier of return causes.
 
 Category Highlights:
 
-Top Net Revenue: Swimwear generated the highest net sales ($4,182.07) with a low average return item price ($49.81).
+Top Net Revenue: Swimwear generated the highest net sales ($6950.28) with a low average return item price ($49.81).
 
 Highest Refund Risk: Denim ($945.52 refunded) and Dresses ($870.32 refunded) experienced the greatest financial return leakage.
 
