@@ -84,7 +84,4 @@ Data/
  01_schema_views_and_cleaning.sql
  02_financial_aggregations.sql
  PowerBI/
-Fashion_Nova_Returns_Dashboard.pbix
-├── Visu<img width="976" height="490" alt="Screenshot 2026-09-13 132708" src="https://github.com/user-attachments/assets/672be709-44cb-44c0-bb83-11939db4f617" />
-<img width="1015" height="529" alt="Screenshot 2026-09-13 131654" src="https://github.com/user-attachments/assets/61449171-b602-4ed1-b11b-0aa8553c7f1a" />
-<img width="923" height="563" alt="Screenshot 2026-09-13 131204" src="https://github.com/user-attachments/assets/aadc936b-387f-41ca-a58b-500a38c6713a" />
+Fashion_Nova_Returns_Dashboard.pbi
