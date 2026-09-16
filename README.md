@@ -1,7 +1,8 @@
-<img width="1210" height="473" alt="Screenshot 2026-09-13 190908" src="https://github.com/user-attachments/assets/cbe4c448-f40f-4d5c-a52b-e91684a8c64b" />
-[GROUPBY_JOINED.csv](https://github.com/user-attachments/files/32173718/GROUPBY_JOINED.csv)
-[JOINED_FN_ORDER_FN_FN_RETURNS.csv](https://github.com/user-attachments/files/32173710/JOINED_FN_ORDER_FN_FN_RETURNS.csv)
-[Fashion_nova_sales.csv](https://github.com/user-attachments/files/32173702/Fashion_nova_sales.csv)
+<img width="1210" height="473" alt="Screenshot 2026-09-13 190908" src="https://github.com/user-attachments/assets/cbe4c448-f40f-4d5c-a5<img width="965" height="538" alt="Screenshot 2026-09-16 151653" src="https://github.com/user-attachments/assets/0ebe28dc-98ca-4027-a0f9-7ff8b92e44f7" />
+<img width="950" height="529" alt="Screenshot 2026-09-16 151730" src="https://github.com/user-attachments/assets/eecc943a-3153-4708-8b39-61bf4f149e00" />
+<img width="940" height="548" alt="Screenshot 2026-09-16 151812" src="https://github.com/user-attachments/assets/5ed3b12e-3c27-4d80-a7a0-2b130c663bd7" />
+<img width="925" height="305" alt="Screenshot 2026-09-16 152013" src="https://github.com/user-attachments/assets/56aba8ba-231c-42e4-9840-326afeb707ca" />
+
 [Fashion_nova_products_cleaned.csv](https://github.com/user-attachments/files/32173693/Fashion_nova_products_cleaned.csv)
 [fashion_nova_returns_cleaned.csv](https://github.com/user-attachments/files/32173690/fashion_nova_returns_cleaned.csv)
 [Fashion_nova_orders_cleaned.csv](https://github.com/user-attachments/files/32173658/Fashion_nova_orders_cleaned.csv)
