@@ -1,4 +1,11 @@
 ***👗 Fashion Nova Sales & Returns Analytics Pipeline***
+
+
+<img width="967" height="490" alt="Screenshot 2026-09-19 152012" src="https://github.com/user-attachments/assets/7f49a7a2-dffb-4f29-88e2-e858bafc9373" />
+<img width="948" height="468" alt="Screenshot 2026-09-19 152038" src="https://github.com/user-attachments/assets/de70dedd-724b-4887-afb4-a8e2676c46f1" />
+<img width="931" height="483" alt="Screenshot 2026-09-19 152104" src="https://github.com/user-attachments/assets/9bff65d3-57fa-41f6-858a-cfa769529052" />
+<img width="981" height="460" alt="Screenshot 2026-09-19 152146" src="https://github.com/user-attachments/assets/699bdb8f-d0d4-4098-ba34-591ad068c6e6" />
+<img width="975" height="292" alt="Screenshot 2026-09-19 152222" src="https://github.com/user-attachments/assets/edc42507-484c-4e64-ad30-6c00b80d8d02" />
 📌 Project Overview
 This end-to-end data analytics project evaluates e-commerce sales performance, financial profitability, and customer return patterns for a Fashion Nova dataset (~500 orders). The primary objective is to clean ambiguous raw transactional data, isolate the root causes of revenue leakage (e.g., sizing discrepancies), and deliver interactive visual insights to optimize inventory and product sizing strategies.
 
