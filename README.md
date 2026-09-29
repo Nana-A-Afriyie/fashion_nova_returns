@@ -61,6 +61,16 @@ Category Profitability Matrix: Comparative bar and matrix views tracking Gross S
 
 DAX Metrics: Custom DAX measures developed for Net Revenue, Refund Percentages, and Average Unit Value.
 
+KEY STRATEGIC RECCOMENDATIONS
+Address Fit & Sizing Issues (Top Priority)
+Standardize Size Guides & Add Fit Predictors: Sizing discrepancies ("Too Small" and "Too Big") drive over $4,500 in lost revenue. Implement detailed size charts, customer measurement guidelines, and user fit reviews on product pages.   
+Review Denim Sizing: Denim experienced the highest total refund amount ($945.52). Audit manufacturer sizing consistency specifically for jeans and pants.   
+ Improve Visual & Product Accuracy
+Enhance Product Photography & Color Display: "Item Not As Pictured" accounted for $1,645.56 in returns across 33 items. Ensure high-resolution imagery, accurate color rendering under daylight studio lighting, and clear material descriptions.   
+ Capitalize on High-Margin Categories
+Expand Swimwear Inventory: Swimwear is the top revenue generator ($6,950.28 Gross / $6,167.22 Net) with a low return rate and average return price ($48.94). Increase marketing spend and inventory depth in this category.
+ Protect Footwear Margins: Shoes carry the highest average returned unit price ($79.46). Add 3D sizing advice or half-size recommendations to minimize high-ticket return processing costs. 
+
 📂 Repository Structure
 Plaintext
  Data/
