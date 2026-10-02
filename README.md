@@ -9,6 +9,10 @@
 📌 Project Overview
 This end-to-end data analytics project evaluates e-commerce sales performance, financial profitability, and customer return patterns for a Fashion Nova dataset (~500 orders). The primary objective is to clean ambiguous raw transactional data, isolate the root causes of revenue leakage (e.g., sizing discrepancies), and deliver interactive visual insights to optimize inventory and product sizing strategies.
 
+Problem Statement
+High return rates in online apparel retail create significant revenue leakage, inflated operational handling costs, and inventory distortion. For Fashion Nova, unstructured and disparate transactional data—spanning sales orders, return logs, and product catalogs—obscured the root causes behind customer returns.
+
+Specifically, missing SKUs, data inconsistencies, duplicate entries, and a lack of unified relational tracking prevented the business from accurately isolating key return drivers, such as recurring sizing discrepancies and product category quality issues. Without a cleaned, relational data foundation, management could not quantify total revenue loss from returns or implement targeted inventory and sizing fixes to safeguard profitability.
 🛠️ Data Pipeline & Architecture
 Raw Excel Dataset
 [JOINED_FN_ORDER_FN_FN_RETURNS.csv](https://github.com/user-attachments/files/32422153/JOINED_FN_ORDER_FN_FN_RETURNS.csv)
